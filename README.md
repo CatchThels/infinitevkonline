@@ -14,6 +14,11 @@ Simple! Download that repository:
 3) Authorize with your VK account(Btw, if you think is it stealer. No. Is it open-source and you can check sources.
 4) Enjoy :)
 
+# Tip:
+
+If you using .py script, you need to install all libraries! Execute 'pip install -r requirements.txt' command.
+
+
 
 
 Developed by CatchThels ~ 2020
